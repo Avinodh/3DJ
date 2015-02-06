@@ -20,6 +20,7 @@ Set Up:
 - Load the webpage (home.php)
 - The MYO will be used to control the volume of the music playing in the browser (Raise your hand up to increase the volume, lower it to decrease the volume)
 - The LEAP motion sensor will be used to add effects to the music using various hand gestures
+
 _______________________________________________________________________________
 
 Working:
