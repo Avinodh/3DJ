@@ -1,7 +1,7 @@
 # 3DJ - A browser based gesture controlled music remixer that uses the MYO gesture bracelet, LEAP motion sensor and Spotify's Echo Nest API to let user's remix music in their browsers. 
 
-- TOP 10 BEST APPS AT PENN APPS 2015 - 
-- SPOTIFY API PRIZE WINNER- 
+- TOP 10 BEST APPS AT PENN APPS 2015 
+- SPOTIFY API PRIZE WINNER
 
 An Oculus Rift was also used in our demo to provide a real-time visualization of the music.
 
